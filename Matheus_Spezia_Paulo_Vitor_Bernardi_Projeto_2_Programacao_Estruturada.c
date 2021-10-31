@@ -1,4 +1,4 @@
-//Primeiro projeto Programação estruturada
+//Segundo projeto Programação estruturada
 //Matheus Spezia Freire Lorenz - UC21103938
 //Paulo Vitor Bernardi Theobald - UC21103812
 #include<stdio.h>
